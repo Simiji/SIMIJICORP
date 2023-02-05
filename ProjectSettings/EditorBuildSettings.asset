@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: "Assets/DICQUE_Vall\xE9rian/Scenes/CoreScene_Vall\xE9rian.unity"
+    guid: 4c16aa1f63e91cf4e82496573f5eb79a
+  - enabled: 1
+    path: "Assets/DICQUE_Vall\xE9rian/Scenes/HubScene_Vall\xE9rian.unity"
+    guid: fb579f9b5ba573d4191320692e03e235
+  - enabled: 1
+    path: "Assets/DICQUE_Vall\xE9rian/Scenes/SampleScene_Vall\xE9rian.unity"
+    guid: 0d73b5cf9bf5b2a4195dc39e00ee81b7
   m_configObjects: {}

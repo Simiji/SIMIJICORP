@@ -328,7 +328,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 695ee60c7a3c8fc40a226136d0b4ef58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: HubScene
+  SceneName: "HubScene_Vall\xE9rian"
   Player: {fileID: 2120300745}
 --- !u!1 &2115714623
 GameObject:
@@ -446,8 +446,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.75, y: 1, z: 1.25}
-  m_Center: {x: 0, y: 0.5, z: 0.625}
+  m_Size: {x: 0.75, y: 1, z: 1.2254987}
+  m_Center: {x: 0, y: 0.5, z: 0.67925274}
 --- !u!4 &2120300745
 Transform:
   m_ObjectHideFlags: 0
